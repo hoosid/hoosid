@@ -1,17 +1,17 @@
 
-<h1 align="center">Hi, sidaxe pro 👋</h1>
+<h1 align="center">Hi,i'm `sidaxe pro` 👋</h1>
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-    <a href="a"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/sidali-benayache-94934a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/sidali-benayache-94934a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@sidaxeinfo6378"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/sidali-benayache-94934a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 I'm a software developer  who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript,typeScript,ReactJS,NextJS, React-Native, and Firebase.
 
-- 🔭 I'm a software developer [@myProfile]([https://www.delivery](https://hoosid.github.io/Sidali.ben/)) in algeria
+- 🔭 I'm a software developer [@myProfile]([https://hoosid.github.io/Sidali.ben/) in algeria
 - 💬 Ask me about **informatique dev**
 
 <h3 align="left">Languages and Tools:</h3>
